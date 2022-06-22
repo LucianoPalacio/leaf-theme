@@ -1,0 +1,17 @@
+title: Leaf Blog
+iconURL: #Path image
+theme: jekyll-theme-leaf
+
+# for a clean URL
+permalink: :slug
+
+social:
+  twitter: #Your twiter user 
+  github: #Your github user
+
+plugins:
+ - jekyll-feed
+
+### comments & analytics
+hyvor_talk_website_id: 14
+google_analytics: UA-NNNNNNNN-N
